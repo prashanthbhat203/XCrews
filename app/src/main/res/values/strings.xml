@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XCrews</string>
+    <string name="refresh">Refresh</string>
+    <string name="delete_all">Delete</string>
+    <string name="crew_name">Crew Name</string>
+    <string name="nasa">NASA</string>
+    <string name="https_wikipedia_com">https://wikipedia.com</string>
+    <string name="for_more_info_click_the_link_below">For more info, click the link below</string>
+</resources>
